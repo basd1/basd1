@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hola! 👋
 
-<!--
-**basd1/basd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Bastián Orellana**, Desarrollador Android con 4 años de experiencia.
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Desarrollando apps Android con **Kotlin** & **Jetpack Compose**
+- 🏗️ Clean Architecture + MVVM + Koin para inyección de dependencias
+- 🗄️ **Room** para bases de datos locales
+- ✅ Enfoque fuerte en **testing unitario**
+- 📊 También formado en **Ciencia de Datos** & **KMP**
+
+## 🛠️ Tech Stack
+
+| Categoría | Tecnologías |
+|-----------|-------------|
+| Lenguajes | Kotlin, Java |
+| UI | Jetpack Compose, Material 3 |
+| Arquitectura | Clean Architecture, MVVM |
+| DI | Koin |
+| Base de datos | Room, SQL |
+| Testing | JUnit, MockK |
+| Móvil | Android SDK, KMP |
+
+## 📫 Conectemos
+
+- **LinkedIn**: [basd1](https://linkedin.com/in/basd1)
+- **GitHub**: [basd1](https://github.com/basd1)
+
+---
+
+*Siempre aprendiendo, siempre construyendo 🚀*
