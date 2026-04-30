@@ -1,32 +1,101 @@
-# Hola! 👋
+# Hola 👋
 
-Soy **Bastián Orellana**, Desarrollador Android con 4 años de experiencia.
+Soy **Bastian Orellana**, Android Developer con +4 años de experiencia construyendo, manteniendo y evolucionando aplicaciones en producción.
 
-## 👨‍💻 Sobre Mí
+## 👨‍💻 Sobre mí
 
-- 🔧 Desarrollando apps Android con **Kotlin** & **Jetpack Compose**
-- 🏗️ Clean Architecture + MVVM + Koin para inyección de dependencias
-- 🗄️ **Room** para bases de datos locales
-- ✅ Enfoque fuerte en **testing unitario**
-- 📊 También formado en **Ciencia de Datos** & **KMP**
+- Desarrollo de apps Android con **Kotlin** y **Jetpack Compose**.
+- Desarrollando **CON IA**.
+- Experiencia real en **proyectos largos con cliente** (mantenimiento, evolución y desarrollo desde cero)
+- Refactorización de aplicaciones grandes hacia **arquitecturas modernas**
+- Trabajo cercano con cliente, backend y equipo técnico
+- Enfoque en **código mantenible, testeable y escalable**
+- Acostumbrado a trabajar con múltiples entornos y flujos reales de despliegue
 
-## 🛠️ Tech Stack
+## 🛠️ Stack técnico
 
-| Categoría | Tecnologías |
-|-----------|-------------|
-| Lenguajes | Kotlin, Java |
-| UI | Jetpack Compose, Material 3 |
-| Arquitectura | Clean Architecture, MVVM |
-| DI | Koin |
-| Base de datos | Room, SQL |
-| Testing | JUnit, MockK |
-| Móvil | Android SDK, KMP |
+**Lenguajes**
+- Kotlin
+- Java
+- Python
 
-## 📫 Conectemos
+**UI**
+- Jetpack Compose
+- Material 3
+- XML (Views tradicionales, ConstraintLayout)
+- Figma
 
-- **LinkedIn**: [basd1](https://linkedin.com/in/basd1)
-- **GitHub**: [basd1](https://github.com/basd1)
+**Arquitectura**
+- Clean Architecture
+- MVVM
+- Modularización
 
----
+**Inyección de dependencias**
+- Koin
+- Dagger Hilt
 
-*Siempre aprendiendo, siempre construyendo 🚀*
+**Network**
+- Ktor Client
+- Retrofit
+- OkHttp
+
+**Persistencia**
+- Room
+- DataStore
+- SQL
+
+**Asincronía**
+- Coroutines
+- Flow / StateFlow
+
+**Serialización**
+- Kotlin Serialization
+- Gson
+
+**Testing**
+- JUnit
+- MockK
+- MockWebServer
+
+**Herramientas y entorno**
+- Android Studio
+- Antigravity
+- OpenCode
+- Claude
+- Git (GitFlow)
+- Kanban / Scrum
+
+## ⚙️ Experiencia práctica
+
+- Mantenimiento de varias apps en producción durante años
+- Desarrollo de aplicaciones desde cero con interacción directa con cliente
+- Refactorización completa de apps legacy a **Kotlin + Compose**
+- Gestión de múltiples entornos y bases de datos
+- Integración con APIs, captura multimedia (cámara, audio) y WebViews
+- Despliegue vía Google Play y vía FTP
+
+## 🧩 También he trabajado con
+
+- MVP / MVC
+- Dagger 2
+- RxJava
+- SQLite / SharedPreferences
+- Mockito
+- ButterKnife
+- Otto
+- JobQueue
+- Cupboard
+- Sentry
+- Pipelines CI/CD (Bitbucket)
+
+## 📌 En qué estoy ahora
+
+- Refactorizando apps legacy hacia stacks modernos
+- Mejorando testing y calidad de código
+- Explorando automatización y herramientas de IA aplicadas al desarrollo
+
+## 📫 Contacto
+
+- LinkedIn: https://linkedin.com/in/basd1  
+- Email: bastianorellana1106@gmail.com  
+- GitHub: https://github.com/basd1
