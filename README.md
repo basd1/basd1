@@ -98,4 +98,3 @@ Soy **Bastian Orellana**, Android Developer con +4 años de experiencia construy
 
 - LinkedIn: https://linkedin.com/in/basd1  
 - Email: bastianorellana1106@gmail.com  
-- GitHub: https://github.com/basd1
